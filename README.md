@@ -1,5 +1,5 @@
 <h1 align="center"> JavaScript tips & tricks </h1>
-#### Design By Quyen Dang
+<h2> Design By Quyen Dang</h2>
 <!-- logo -->
 <div align="center">
   <img  src="images/logo.jpeg" height="200" width="450" />
